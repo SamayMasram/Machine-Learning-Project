@@ -33,7 +33,7 @@ ________________________________________________________________________________
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/tea-leaf-classifier.git
+git clone https://github.com/SamayMasram/tea-leaf-classifier.git
 Install dependencies:
 
 Bash
